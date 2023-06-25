@@ -1,0 +1,1 @@
+Lambda architecture combines batch processing and real-time/streaming processing to handle both historical and incoming data in parallel. It involves two paths: a batch layer that processes large volumes of data with low latency and a speed layer that handles real-time data processing. The outputs from both layers are combined to generate unified views and insights.

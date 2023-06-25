@@ -1,0 +1,1 @@
+This architecture follows a centralized approach where data from various operational systems is extracted, transformed, and loaded into a single, integrated data warehouse. It typically uses a relational database management system (RDBMS) and follows a structured schema. EDW architectures often employ ETL (Extract, Transform, Load) processes to move and transform data.
